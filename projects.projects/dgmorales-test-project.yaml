@@ -1,7 +1,7 @@
 apiVersion: projects.platform.buy4.io/v1alpha1
 kind: Project
 metadata:
-  name: dgmorales-test-project-3
+  name: dgmorales-test-project
   annotations:
     provider-config: lab
 spec:
