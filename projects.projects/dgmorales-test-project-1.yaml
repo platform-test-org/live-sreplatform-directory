@@ -1,0 +1,8 @@
+apiVersion: projects.platform.buy4.io/v1alpha1
+kind: Project
+metadata:
+  name: dgmorales-test-project-1
+spec:
+  parameters:
+    ownerTeam: dev-platform
+    sreTeam: sre-platform
