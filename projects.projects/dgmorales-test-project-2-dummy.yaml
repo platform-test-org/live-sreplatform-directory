@@ -2,6 +2,8 @@ apiVersion: projects.platform.buy4.io/v1alpha1
 kind: Project
 metadata:
   name: dgmorales-test-project-2-dummy
+  annotations:
+    provider-config: lab
 spec:
   compositionSelector:
     matchLabels:
