@@ -1,7 +1,7 @@
 apiVersion: projects.platform.buy4.io/v1alpha1
 kind: Project
 metadata:
-  name: dgmorales-test-project-2
+  name: dgmorales-test-project-2-dummy
 spec:
   compositionSelector:
     matchLabels:
