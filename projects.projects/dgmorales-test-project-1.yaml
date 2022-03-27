@@ -3,6 +3,9 @@ kind: Project
 metadata:
   name: dgmorales-test-project-1
 spec:
+  compositionSelector:
+    matchLabels:
+      provider: dummy
   parameters:
     ownerTeam: dev-platform
     sreTeam: sre-platform
